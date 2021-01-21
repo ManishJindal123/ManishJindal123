@@ -1,3 +1,4 @@
+<div style="padding: 20px 0px;"><img src="./manish.jpg" alt="manish github banner"></div>
 <h1 align="center">Hi 👋, I'm Manish Jindal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
