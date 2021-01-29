@@ -23,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manishjindal123&theme=dark&show_icons=true&locale=en" alt="manishjindal123" /></p>
 
-<a href="https://manishjindal123.github.io/mepitome/"> Go And Checkout My Portfolio</a>
+ Go And Checkout My Portfolio <a href="https://manishjindal123.github.io/mepitome/"> By Clicking Here</a>
