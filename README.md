@@ -1,3 +1,12 @@
+<h3 align="center" style="font-family:impact;"> Hi there 👋</h3>
+
+<p align="center">
+I'm Manish Jindal, Tech enthusiast 👨‍💻.
+</p>
+
+<h4 align="center">
+💻 C++ |  Coder  |   ✨  |  💬 connect <a href="https://www.linkedin.com/in/manish-jindal-4347241b9/">@manishjindal</a>
+</h4>
 <table width="100%">
   <tr>
     <td>
